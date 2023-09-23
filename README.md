@@ -1,5 +1,7 @@
 Predicting disease incidence using machine algorithms and fuzzy logic in Python
+
 Toktam Dehghani Postdoctoral Researcher, Department of Medical Informatics, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran; Email: DehghaniT982@mums.ac.ir
+
 Mahdi Akrami, master's student of the non-profit Salman Institute of Higher Education, Mashhad, mahdi7.2.akrami7.2@gmail.com
 
 Abstract
